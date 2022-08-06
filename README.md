@@ -1,7 +1,7 @@
 # UFOs
 
 ## Project Overview
-* The purpose of this project is to create a website using Javascript and HTML. This website will be used in order to display and filter UFO sightings data from across the United States and Canada.   
+* The purpose of this project is to create a website using JavaScript and HTML. This website will be used in order to display and filter UFO sightings data from across the United States and Canada.   
 
 ## Resources
 * Data source: app.js, data.js, style.css, index.html
